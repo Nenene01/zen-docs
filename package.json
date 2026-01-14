@@ -1,0 +1,26 @@
+{
+  "name": "zen-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nenene01/zen-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nenene01/zen-docs/issues"
+  },
+  "homepage": "https://github.com/Nenene01/zen-docs#readme",
+  "dependencies": {
+    "zenn-cli": "^0.3.1"
+  }
+}
