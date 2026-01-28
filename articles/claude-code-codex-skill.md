@@ -3,7 +3,7 @@ title: "記事執筆を加速！Claude CodeとCodexのSkill連携で校閲・画
 emoji: "🤝"
 type: "tech"
 topics: ["claudecode", "openai", "codex", "zenn", "ai"]
-published: false
+published: true
 ---
 
 ## はじめに
