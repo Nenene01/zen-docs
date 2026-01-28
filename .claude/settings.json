@@ -1,5 +1,8 @@
 {
   "rules": [
     ".claude/rules/zenn-writing.md"
+  ],
+  "skills": [
+    ".claude/skills/codex.md"
   ]
 }
